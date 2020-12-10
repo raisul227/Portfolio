@@ -277,6 +277,12 @@ img{
   margin-right: var(--mb-2);
   color: var(--first-color);
 }
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
 .skills__names{
   display: flex;
   align-items: center;
@@ -289,6 +295,12 @@ img{
   height: .25rem;
   border-radius: .5rem;
   z-index: var(--z-back);
+}
+.first{
+  background-color: red;
+}
+.third{
+  background-color: green;
 }
 .skills__html{
   width: 95%;
