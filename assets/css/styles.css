@@ -449,3 +449,9 @@ img{
     right: 10%;
   }
 }
+
+@media screen and (max-width: 500px){
+  .home__social{
+    margin-top: 0.8rem;
+  }
+}
