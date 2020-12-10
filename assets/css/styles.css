@@ -452,6 +452,10 @@ img{
 
 @media screen and (max-width: 500px){
   .home__social{
-    margin-top: 0.8rem;
+    margin-top: 1.4rem;
+  }
+  .bd-grid{
+    width: 100%;
+    margin: 0 auto;
   }
 }
